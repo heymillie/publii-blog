@@ -3,7 +3,7 @@
     <title>Kyoto Travel Blog</title>
     <link href="https://heymillie.github.io/publii-blog/feed.xml" rel="self" />
     <link href="https://heymillie.github.io/publii-blog" />
-    <updated>2025-03-02T19:50:07-08:00</updated>
+    <updated>2025-03-02T20:08:20-08:00</updated>
     <author>
         <name>Millie</name>
     </author>
@@ -16,20 +16,26 @@
         </author>
         <link href="https://heymillie.github.io/publii-blog/post-title.html"/>
         <id>https://heymillie.github.io/publii-blog/post-title.html</id>
+        <media:content url="https://heymillie.github.io/publii-blog/media/posts/1/sorasak-_UIN-pFfJ7c-unsplash-1-2.jpg" medium="image" />
+            <category term="Itinerary"/>
 
         <updated>2025-03-02T19:46:58-08:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://heymillie.github.io/publii-blog/media/posts/1/sorasak-_UIN-pFfJ7c-unsplash-1-2.jpg" alt="" />
                     test test hihihi
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <ol>
+                    <p><img src="https://heymillie.github.io/publii-blog/media/posts/1/sorasak-_UIN-pFfJ7c-unsplash-1-2.jpg" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://heymillie.github.io/publii-blog/media/posts/1/sorasak-_UIN-pFfJ7c-unsplash-1.jpg" alt="" width="7360" height="4912" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://heymillie.github.io/publii-blog/media/posts/1/responsive/sorasak-_UIN-pFfJ7c-unsplash-1-xs.jpg 640w ,https://heymillie.github.io/publii-blog/media/posts/1/responsive/sorasak-_UIN-pFfJ7c-unsplash-1-sm.jpg 768w ,https://heymillie.github.io/publii-blog/media/posts/1/responsive/sorasak-_UIN-pFfJ7c-unsplash-1-md.jpg 1024w ,https://heymillie.github.io/publii-blog/media/posts/1/responsive/sorasak-_UIN-pFfJ7c-unsplash-1-lg.jpg 1366w ,https://heymillie.github.io/publii-blog/media/posts/1/responsive/sorasak-_UIN-pFfJ7c-unsplash-1-xl.jpg 1600w ,https://heymillie.github.io/publii-blog/media/posts/1/responsive/sorasak-_UIN-pFfJ7c-unsplash-1-2xl.jpg 1920w"></figure>
+<ol class="ordered-list">
 <li>test test</li>
 <li>hihihi</li>
-<li> </li>
 </ol>
+<p> </p>
+<p> </p>
             ]]>
         </content>
     </entry>
