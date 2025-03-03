@@ -3,10 +3,30 @@
     <title>Kyoto Travel Blog</title>
     <link href="https://heymillie.github.io/publii-blog/feed.xml" rel="self" />
     <link href="https://heymillie.github.io/publii-blog" />
-    <updated>1969-12-31T16:00:00-08:00</updated>
+    <updated>2025-03-02T19:46:58-08:00</updated>
     <author>
         <name>Millie</name>
     </author>
     <id>https://heymillie.github.io/publii-blog</id>
 
+    <entry>
+        <title>Post title </title>
+        <author>
+            <name>Millie</name>
+        </author>
+        <link href="https://heymillie.github.io/publii-blog/post-title.html"/>
+        <id>https://heymillie.github.io/publii-blog/post-title.html</id>
+
+        <updated>2025-03-02T19:46:58-08:00</updated>
+            <summary>
+                <![CDATA[
+                    test test
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>test test</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
