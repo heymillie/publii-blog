@@ -5,6 +5,10 @@
 <loc>https://heymillie.github.io/publii-blog/</loc>
 </url>
 <url>
+<loc>https://heymillie.github.io/publii-blog/about-me-2.html</loc>
+<lastmod>2025-03-02T21:45:57-08:00</lastmod>
+</url>
+<url>
 <loc>https://heymillie.github.io/publii-blog/post-title.html</loc>
 <lastmod>2025-03-02T20:35:05-08:00</lastmod>
 <image:image>
@@ -15,5 +19,9 @@
 <image:loc>https://heymillie.github.io/publii-blog/media/posts/1/sorasak-_UIN-pFfJ7c-unsplash-1.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
+</url>
+<url>
+<loc>https://heymillie.github.io/publii-blog/test-page.html</loc>
+<lastmod>2025-03-02T21:46:16-08:00</lastmod>
 </url>
 </urlset>
